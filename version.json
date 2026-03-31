@@ -1,0 +1,15 @@
+{
+  "appName": "JD Comment Helper",
+  "channel": "stable",
+  "latestVersion": "1.0.0",
+  "minSupportedVersion": "1.0.0",
+  "packageType": "zip",
+  "downloadUrl": "https://github.com/alipp3474/jd-comment-helper-releases/releases/download/v1.0.0/JD%20Comment%20Helper-1.0.0.zip",
+  "sha256": "14b929f994f7116cadc9442f1ea7ddc83b59b7834363c69aa630b65e859d43b5",
+  "size": 304209745,
+  "forceUpdate": false,
+  "notes": [
+    "1.0 正式版发布",
+    "包含评论抓取、图片重传、登录恢复、热更新与深色模式"
+  ]
+}
